@@ -1,0 +1,29 @@
+
+Understand Static
+The while loop question on the prac 1 review
+                                    #2 
+No creating code on inheritence
+
+write code for linked list
+      semi colons 
+      braces
+      good syntax
+
+easy test????
+
+Q1.)
+1
+
+Q2.)
+
+Q3.)
+
+Q4.)
+
+Q5.)
+
+Q6.)
+
+
+Do the practice test on linked lists... need to be able to write methods on own for
+linked lists. 
